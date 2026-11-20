@@ -1,3 +1,7 @@
+def add(a,b):
+    return a+b
+
+
 fib1 = 1
 fib2 = 1
 
